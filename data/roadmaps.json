@@ -1,0 +1,1631 @@
+{
+  "jobs": [
+    {
+      "id": "frontend-developer",
+      "title": "Frontend Developer",
+      "category": "Web Development",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git"
+      ],
+      "courses": [
+        {
+          "name": "Responsive Web Design - freeCodeCamp",
+          "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+        },
+        {
+          "name": "React Official Docs",
+          "url": "https://react.dev/learn"
+        }
+      ],
+      "books": [
+        {
+          "title": "Eloquent JavaScript",
+          "author": "Marijn Haverbeke"
+        },
+        {
+          "title": "You Don\u2019t Know JS Yet",
+          "author": "Kyle Simpson"
+        }
+      ],
+      "projects": [
+        "Portfolio Website",
+        "Weather App",
+        "E-commerce Frontend"
+      ]
+    },
+    {
+      "id": "backend-developer",
+      "title": "Backend Developer",
+      "category": "Web Development",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "courses": [
+        {
+          "name": "Node.js Official Learning Path",
+          "url": "https://nodejs.org/en/learn"
+        },
+        {
+          "name": "MongoDB University",
+          "url": "https://learn.mongodb.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Node.js Design Patterns",
+          "author": "Mario Casciaro"
+        },
+        {
+          "title": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann"
+        }
+      ],
+      "projects": [
+        "REST API",
+        "Authentication System",
+        "Chat Backend"
+      ]
+    },
+    {
+      "id": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Full Stack Developer Project",
+        "Intermediate Full Stack Developer Project",
+        "Advanced Full Stack Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "mobile-app-developer",
+      "title": "Mobile App Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Mobile App Developer Project",
+        "Intermediate Mobile App Developer Project",
+        "Advanced Mobile App Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "android-developer",
+      "title": "Android Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Android Developer Project",
+        "Intermediate Android Developer Project",
+        "Advanced Android Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "ios-developer",
+      "title": "iOS Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner iOS Developer Project",
+        "Intermediate iOS Developer Project",
+        "Advanced iOS Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "game-developer",
+      "title": "Game Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Unity Learn",
+          "url": "https://learn.unity.com/"
+        },
+        {
+          "name": "Unreal Engine Learning",
+          "url": "https://dev.epicgames.com/community/unreal-engine/learning"
+        }
+      ],
+      "books": [
+        {
+          "title": "Game Programming Patterns",
+          "author": "Robert Nystrom"
+        },
+        {
+          "title": "The Art of Game Design",
+          "author": "Jesse Schell"
+        }
+      ],
+      "projects": [
+        "Beginner Game Developer Project",
+        "Intermediate Game Developer Project",
+        "Advanced Game Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "unity-developer",
+      "title": "Unity Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Unity Developer Project",
+        "Intermediate Unity Developer Project",
+        "Advanced Unity Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "unreal-engine-developer",
+      "title": "Unreal Engine Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Unreal Engine Developer Project",
+        "Intermediate Unreal Engine Developer Project",
+        "Advanced Unreal Engine Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "software-tester",
+      "title": "Software Tester",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Selenium WebDriver with Java - Udemy",
+          "url": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
+        },
+        {
+          "name": "Test Automation University",
+          "url": "https://testautomationu.applitools.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Foundations of Software Testing",
+          "author": "Dorothy Graham"
+        },
+        {
+          "title": "Lessons Learned in Software Testing",
+          "author": "Cem Kaner"
+        }
+      ],
+      "projects": [
+        "Beginner Software Tester Project",
+        "Intermediate Software Tester Project",
+        "Advanced Software Tester Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "qa-engineer",
+      "title": "QA Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner QA Engineer Project",
+        "Intermediate QA Engineer Project",
+        "Advanced QA Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "devops-engineer",
+      "title": "DevOps Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner DevOps Engineer Project",
+        "Intermediate DevOps Engineer Project",
+        "Advanced DevOps Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Cloud Engineer Project",
+        "Intermediate Cloud Engineer Project",
+        "Advanced Cloud Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "cybersecurity-analyst",
+      "title": "Cybersecurity Analyst",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Google Cybersecurity Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+        },
+        {
+          "name": "TryHackMe",
+          "url": "https://tryhackme.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "The Web Application Hacker's Handbook",
+          "author": "Dafydd Stuttard and Marcus Pinto"
+        },
+        {
+          "title": "Hacking: The Art of Exploitation",
+          "author": "Jon Erickson"
+        }
+      ],
+      "projects": [
+        "Beginner Cybersecurity Analyst Project",
+        "Intermediate Cybersecurity Analyst Project",
+        "Advanced Cybersecurity Analyst Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "ethical-hacker",
+      "title": "Ethical Hacker",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Ethical Hacker Project",
+        "Intermediate Ethical Hacker Project",
+        "Advanced Ethical Hacker Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "data-scientist",
+      "title": "Data Scientist",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Machine Learning by Andrew Ng",
+          "url": "https://www.coursera.org/learn/machine-learning"
+        },
+        {
+          "name": "Data Analysis with Python - freeCodeCamp",
+          "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+          "author": "Aur\u00e9lien G\u00e9ron"
+        },
+        {
+          "title": "Python for Data Analysis",
+          "author": "Wes McKinney"
+        }
+      ],
+      "projects": [
+        "Beginner Data Scientist Project",
+        "Intermediate Data Scientist Project",
+        "Advanced Data Scientist Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Data Analyst Project",
+        "Intermediate Data Analyst Project",
+        "Advanced Data Analyst Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "title": "Machine Learning Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Machine Learning Engineer Project",
+        "Intermediate Machine Learning Engineer Project",
+        "Advanced Machine Learning Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "ai-engineer",
+      "title": "AI Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner AI Engineer Project",
+        "Intermediate AI Engineer Project",
+        "Advanced AI Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "blockchain-developer",
+      "title": "Blockchain Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Blockchain Developer Project",
+        "Intermediate Blockchain Developer Project",
+        "Advanced Blockchain Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "ui-ux-designer",
+      "title": "UI/UX Designer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner UI/UX Designer Project",
+        "Intermediate UI/UX Designer Project",
+        "Advanced UI/UX Designer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "graphic-designer",
+      "title": "Graphic Designer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Graphic Designer Project",
+        "Intermediate Graphic Designer Project",
+        "Advanced Graphic Designer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "system-administrator",
+      "title": "System Administrator",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner System Administrator Project",
+        "Intermediate System Administrator Project",
+        "Advanced System Administrator Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "network-engineer",
+      "title": "Network Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Network Engineer Project",
+        "Intermediate Network Engineer Project",
+        "Advanced Network Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "database-administrator",
+      "title": "Database Administrator",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Database Administrator Project",
+        "Intermediate Database Administrator Project",
+        "Advanced Database Administrator Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "embedded-systems-engineer",
+      "title": "Embedded Systems Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Embedded Systems Engineer Project",
+        "Intermediate Embedded Systems Engineer Project",
+        "Advanced Embedded Systems Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "robotics-engineer",
+      "title": "Robotics Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Robotics Engineer Project",
+        "Intermediate Robotics Engineer Project",
+        "Advanced Robotics Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "ar-vr-developer",
+      "title": "AR/VR Developer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner AR/VR Developer Project",
+        "Intermediate AR/VR Developer Project",
+        "Advanced AR/VR Developer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "technical-writer",
+      "title": "Technical Writer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Technical Writer Project",
+        "Intermediate Technical Writer Project",
+        "Advanced Technical Writer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "product-manager",
+      "title": "Product Manager",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Product Manager Project",
+        "Intermediate Product Manager Project",
+        "Advanced Product Manager Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "scrum-master",
+      "title": "Scrum Master",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Scrum Master Project",
+        "Intermediate Scrum Master Project",
+        "Advanced Scrum Master Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "seo-specialist",
+      "title": "SEO Specialist",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner SEO Specialist Project",
+        "Intermediate SEO Specialist Project",
+        "Advanced SEO Specialist Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "digital-marketer",
+      "title": "Digital Marketer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Digital Marketer Project",
+        "Intermediate Digital Marketer Project",
+        "Advanced Digital Marketer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "content-writer",
+      "title": "Content Writer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Content Writer Project",
+        "Intermediate Content Writer Project",
+        "Advanced Content Writer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "title": "Business Analyst",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Business Analyst Project",
+        "Intermediate Business Analyst Project",
+        "Advanced Business Analyst Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "computer-vision-engineer",
+      "title": "Computer Vision Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Computer Vision Engineer Project",
+        "Intermediate Computer Vision Engineer Project",
+        "Advanced Computer Vision Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "nlp-engineer",
+      "title": "NLP Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner NLP Engineer Project",
+        "Intermediate NLP Engineer Project",
+        "Advanced NLP Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "site-reliability-engineer",
+      "title": "Site Reliability Engineer",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Site Reliability Engineer Project",
+        "Intermediate Site Reliability Engineer Project",
+        "Advanced Site Reliability Engineer Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    },
+    {
+      "id": "penetration-tester",
+      "title": "Penetration Tester",
+      "category": "Technology",
+      "skills": [
+        "Problem Solving",
+        "Projects",
+        "Communication"
+      ],
+      "courses": [
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/"
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Clean Code",
+          "author": "Robert C. Martin"
+        },
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt and David Thomas"
+        }
+      ],
+      "projects": [
+        "Beginner Penetration Tester Project",
+        "Intermediate Penetration Tester Project",
+        "Advanced Penetration Tester Portfolio Project"
+      ],
+      "roadmap": [
+        "Learn Fundamentals",
+        "Practice Core Skills",
+        "Build Real Projects",
+        "Create Portfolio",
+        "Apply for Jobs"
+      ]
+    }
+  ]
+}
