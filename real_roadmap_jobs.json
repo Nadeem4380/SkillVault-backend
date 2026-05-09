@@ -1,0 +1,1848 @@
+{
+  "jobs": [
+    {
+      "id": "blockchain-developer",
+      "title": "Blockchain Developer",
+      "category": "Blockchain",
+      "skills": [
+        "Solidity",
+        "Smart Contracts",
+        "Web3.js / Ethers.js",
+        "Cryptography Basics",
+        "Hardhat / Truffle",
+        "DeFi Concepts"
+      ],
+      "courses": [
+        {
+          "name": "Alchemy University",
+          "url": "https://university.alchemy.com/"
+        },
+        {
+          "name": "CryptoZombies",
+          "url": "https://cryptozombies.io/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Mastering Ethereum",
+          "author": "Andreas M. Antonopoulos"
+        },
+        {
+          "title": "Mastering Bitcoin",
+          "author": "Andreas M. Antonopoulos"
+        }
+      ],
+      "projects": [
+        "Create and Deploy an ERC-20 Token",
+        "Build a Decentralized Voting DApp",
+        "Full-Stack NFT Marketplace with IPFS"
+      ],
+      "roadmap": [
+        "Learn Cryptography & Blockchain Basics",
+        "Master Solidity & Smart Contract Security",
+        "Learn Web3 Libraries (Ethers.js/Web3.js)",
+        "Build & Deploy DApps on Testnets",
+        "Audit Smart Contracts & Build Portfolio"
+      ]
+    },
+    {
+      "id": "ui-ux-designer",
+      "title": "UI/UX Designer",
+      "category": "Design",
+      "skills": [
+        "Wireframing & Prototyping",
+        "User Research",
+        "Figma",
+        "Interaction Design",
+        "Usability Testing",
+        "Design Systems"
+      ],
+      "courses": [
+        {
+          "name": "Google UX Design Professional Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-ux-design"
+        },
+        {
+          "name": "Figma Official Tutorials",
+          "url": "https://help.figma.com/hc/en-us/categories/360002051613-Figma"
+        }
+      ],
+      "books": [
+        {
+          "title": "Don't Make Me Think",
+          "author": "Steve Krug"
+        },
+        {
+          "title": "The Design of Everyday Things",
+          "author": "Don Norman"
+        }
+      ],
+      "projects": [
+        "Redesign a Local Business Website",
+        "Create a Mobile App Prototype for Fitness Tracking",
+        "End-to-End UX Case Study for an E-commerce Checkout"
+      ],
+      "roadmap": [
+        "Learn UX Principles & Design Thinking",
+        "Master Figma & Prototyping Tools",
+        "Conduct User Research & Create Personas",
+        "Build 3 Comprehensive Case Studies",
+        "Create a Portfolio & Prepare for Whiteboard Challenges"
+      ]
+    },
+    {
+      "id": "graphic-designer",
+      "title": "Graphic Designer",
+      "category": "Design",
+      "skills": [
+        "Typography",
+        "Color Theory",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "InDesign",
+        "Brand Identity Design"
+      ],
+      "courses": [
+        {
+          "name": "CalArts Graphic Design Specialization",
+          "url": "https://www.coursera.org/specializations/graphic-design"
+        },
+        {
+          "name": "Adobe Creative Cloud Tutorials",
+          "url": "https://creativecloud.adobe.com/learn"
+        }
+      ],
+      "books": [
+        {
+          "title": "Thinking with Type",
+          "author": "Ellen Lupton"
+        },
+        {
+          "title": "Grid Systems in Graphic Design",
+          "author": "Josef Müller-Brockmann"
+        }
+      ],
+      "projects": [
+        "Design a Complete Brand Identity (Logo, Typography, Colors)",
+        "Create a Multi-page Editorial Magazine Layout",
+        "Design a Series of Event Posters & Social Media Assets"
+      ],
+      "roadmap": [
+        "Study Typography, Color Theory & Composition",
+        "Master Adobe Illustrator & Photoshop",
+        "Learn Print vs. Digital Design Requirements",
+        "Build a Diverse Visual Portfolio",
+        "Network & Apply for Agency/Freelance Roles"
+      ]
+    },
+    {
+      "id": "system-administrator",
+      "title": "System Administrator",
+      "category": "IT",
+      "skills": [
+        "Linux/Windows Server Administration",
+        "Bash/PowerShell Scripting",
+        "Active Directory",
+        "Networking (DNS, DHCP, TCP/IP)",
+        "Virtualization (VMware/Hyper-V)",
+        "System Monitoring"
+      ],
+      "courses": [
+        {
+          "name": "Linux Journey",
+          "url": "https://linuxjourney.com/"
+        },
+        {
+          "name": "Microsoft Learn: Windows Server",
+          "url": "https://learn.microsoft.com/en-us/training/windows-server/"
+        }
+      ],
+      "books": [
+        {
+          "title": "UNIX and Linux System Administration Handbook",
+          "author": "Evi Nemeth et al."
+        },
+        {
+          "title": "Windows Server 2022 & PowerShell All-in-One",
+          "author": "Ramazan Salman"
+        }
+      ],
+      "projects": [
+        "Set Up a Home Lab with Active Directory & DNS",
+        "Automate Server Backups using Bash/PowerShell",
+        "Deploy and Monitor a LAMP Stack Server"
+      ],
+      "roadmap": [
+        "Master OS Fundamentals (Linux & Windows)",
+        "Learn Networking & Directory Services",
+        "Automate Tasks with Scripting",
+        "Implement Monitoring & Security Best Practices",
+        "Get Certified (CompTIA Server+/Linux+) & Apply"
+      ]
+    },
+    {
+      "id": "network-engineer",
+      "title": "Network Engineer",
+      "category": "IT",
+      "skills": [
+        "Routing & Switching",
+        "TCP/IP & Subnetting",
+        "Cisco IOS",
+        "Network Security",
+        "BGP/OSPF",
+        "Wireshark"
+      ],
+      "courses": [
+        {
+          "name": "Cisco Networking Academy",
+          "url": "https://www.netacad.com/"
+        },
+        {
+          "name": "Jeremy's IT Lab (CCNA)",
+          "url": "https://www.youtube.com/c/JeremysITLab"
+        }
+      ],
+      "books": [
+        {
+          "title": "CCNA 200-301 Official Cert Guide",
+          "author": "Wendell Odom"
+        },
+        {
+          "title": "Network Warrior",
+          "author": "Gary A. Donahue"
+        }
+      ],
+      "projects": [
+        "Design a Small Office Network Topology in Packet Tracer",
+        "Configure OSPF and VLANs on Virtual Routers",
+        "Analyze Network Traffic & Troubleshoot with Wireshark"
+      ],
+      "roadmap": [
+        "Learn Networking Basics & OSI Model",
+        "Master Subnetting & Routing Protocols",
+        "Practice with Cisco Packet Tracer / GNS3",
+        "Prepare for CCNA Certification",
+        "Build a Home Lab & Apply for Roles"
+      ]
+    },
+    {
+      "id": "database-administrator",
+      "title": "Database Administrator",
+      "category": "Database",
+      "skills": [
+        "SQL",
+        "Database Backup & Recovery",
+        "Performance Tuning",
+        "Replication & Clustering",
+        "PostgreSQL/MySQL",
+        "Data Security"
+      ],
+      "courses": [
+        {
+          "name": "PostgreSQL Official Tutorial",
+          "url": "https://www.postgresql.org/docs/current/tutorial.html"
+        },
+        {
+          "name": "Udemy: The Complete SQL Bootcamp",
+          "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+        }
+      ],
+      "books": [
+        {
+          "title": "SQL Performance Explained",
+          "author": "Markus Winand"
+        },
+        {
+          "title": "Database Internals",
+          "author": "Alex Petrov"
+        }
+      ],
+      "projects": [
+        "Design & Optimize a Relational Schema for E-commerce",
+        "Set Up Master-Slave Replication in PostgreSQL",
+        "Automate Database Backups & Write a Disaster Recovery Plan"
+      ],
+      "roadmap": [
+        "Master SQL & Relational Database Design",
+        "Learn Indexing & Query Optimization",
+        "Understand Backup, Recovery & Replication",
+        "Learn NoSQL Basics (MongoDB/Redis)",
+        "Build a Portfolio of DB Architectures & Apply"
+      ]
+    },
+    {
+      "id": "embedded-systems-engineer",
+      "title": "Embedded Systems Engineer",
+      "category": "Hardware",
+      "skills": [
+        "C/C++",
+        "Microcontrollers (ARM/AVR)",
+        "RTOS",
+        "PCB Design Basics",
+        "I2C/SPI/UART",
+        "Hardware Debugging"
+      ],
+      "courses": [
+        {
+          "name": "FastBit Embedded Brain Academy",
+          "url": "https://www.udemy.com/user/fastbit-embedded-brain-academy/"
+        },
+        {
+          "name": "EdX: Embedded Systems - Shape the World",
+          "url": "https://www.edx.org/course/embedded-systems-shape-the-world"
+        }
+      ],
+      "books": [
+        {
+          "title": "Making Embedded Systems",
+          "author": "Elecia White"
+        },
+        {
+          "title": "Programming Embedded Systems in C and C++",
+          "author": "Michael Barr"
+        }
+      ],
+      "projects": [
+        "Build a Custom Digital Thermometer with I2C Sensors",
+        "Develop an RTOS-based Task Scheduler on ARM Cortex-M",
+        "Design a Smart Home IoT Node with Wi-Fi Module"
+      ],
+      "roadmap": [
+        "Master C Programming & Computer Architecture",
+        "Learn Microcontroller Peripherals & Protocols",
+        "Study Real-Time Operating Systems (RTOS)",
+        "Build Hardware-Software Integration Projects",
+        "Create a Hardware Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "robotics-engineer",
+      "title": "Robotics Engineer",
+      "category": "Hardware",
+      "skills": [
+        "ROS (Robot Operating System)",
+        "C++/Python",
+        "Kinematics & Dynamics",
+        "Computer Vision",
+        "Control Systems",
+        "Sensor Fusion"
+      ],
+      "courses": [
+        {
+          "name": "The Construct (ROS)",
+          "url": "https://www.theconstructsim.com/"
+        },
+        {
+          "name": "Modern Robotics (Coursera)",
+          "url": "https://www.coursera.org/specializations/modernrobotics"
+        }
+      ],
+      "books": [
+        {
+          "title": "Programming Robots with ROS",
+          "author": "Morgan Quigley"
+        },
+        {
+          "title": "Probabilistic Robotics",
+          "author": "Sebastian Thrun"
+        }
+      ],
+      "projects": [
+        "Simulate a Line-Following Robot in Gazebo",
+        "Implement SLAM for Autonomous Navigation",
+        "Build a Robotic Arm with Inverse Kinematics"
+      ],
+      "roadmap": [
+        "Learn C++/Python & Linear Algebra",
+        "Master ROS & Simulation Tools (Gazebo)",
+        "Study Control Theory & Kinematics",
+        "Integrate Sensors (LiDAR, Cameras)",
+        "Build Physical/Simulated Robots & Apply"
+      ]
+    },
+    {
+      "id": "ar-vr-developer",
+      "title": "AR/VR Developer",
+      "category": "Game Development",
+      "skills": [
+        "Unity 3D",
+        "C#",
+        "ARCore/ARKit",
+        "Oculus SDK",
+        "3D Math",
+        "Spatial Audio"
+      ],
+      "courses": [
+        {
+          "name": "Unity XR Development",
+          "url": "https://learn.unity.com/pathway/unity-xr"
+        },
+        {
+          "name": "Coursera: AR/VR Development",
+          "url": "https://www.coursera.org/specializations/ar-vr"
+        }
+      ],
+      "books": [
+        {
+          "title": "Learning Virtual Reality",
+          "author": "Tony Parisi"
+        },
+        {
+          "title": "Augmented Human",
+          "author": "Helen Papagiannis"
+        }
+      ],
+      "projects": [
+        "Create an AR Furniture Placement App",
+        "Build a VR Escape Room Experience",
+        "Develop an Interactive VR Training Simulation"
+      ],
+      "roadmap": [
+        "Learn C# & Unity Engine Basics",
+        "Study 3D Math & Spatial Design",
+        "Master ARCore/ARKit & VR SDKs",
+        "Optimize for Mobile/Standalone Headsets",
+        "Publish Apps & Build an XR Portfolio"
+      ]
+    },
+    {
+      "id": "technical-writer",
+      "title": "Technical Writer",
+      "category": "Content",
+      "skills": [
+        "API Documentation",
+        "Markdown/HTML",
+        "Information Architecture",
+        "Git/GitHub",
+        "Developer Tools",
+        "Clear Communication"
+      ],
+      "courses": [
+        {
+          "name": "Google Technical Writing",
+          "url": "https://developers.google.com/tech-writing"
+        },
+        {
+          "name": "Write the Docs Guide",
+          "url": "https://www.writethedocs.org/guide/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Docs for Developers",
+          "author": "Jared Bhatti"
+        },
+        {
+          "title": "The Insider's Guide to Technical Writing",
+          "author": "Krista Van Laan"
+        }
+      ],
+      "projects": [
+        "Write API Docs for a Public REST API using Swagger",
+        "Create a Quickstart Guide for an Open Source Tool",
+        "Restructure a Messy Wiki into a Docusaurus Site"
+      ],
+      "roadmap": [
+        "Learn Markdown, Git, & API Basics",
+        "Study Information Architecture & Style Guides",
+        "Contribute to Open Source Documentation",
+        "Build a Portfolio with API & User Guides",
+        "Network on Write the Docs & Apply"
+      ]
+    },
+    {
+      "id": "product-manager",
+      "title": "Product Manager",
+      "category": "Management",
+      "skills": [
+        "Product Strategy",
+        "Agile/Scrum",
+        "User Story Mapping",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Wireframing"
+      ],
+      "courses": [
+        {
+          "name": "Product School (YouTube/Free Resources)",
+          "url": "https://www.youtube.com/c/ProductSchool"
+        },
+        {
+          "name": "Coursera: Software Product Management",
+          "url": "https://www.coursera.org/specializations/product-management"
+        }
+      ],
+      "books": [
+        {
+          "title": "Inspired",
+          "author": "Marty Cagan"
+        },
+        {
+          "title": "Cracking the PM Interview",
+          "author": "Gayle Laakmann McDowell"
+        }
+      ],
+      "projects": [
+        "Write a Comprehensive PRD for a New Feature",
+        "Conduct a Teardown & Feature Pitch for a Popular App",
+        "Create a Product Roadmap & Go-to-Market Strategy"
+      ],
+      "roadmap": [
+        "Learn Product Lifecycle & Agile Methodologies",
+        "Master User Empathy & Data Analytics",
+        "Practice Writing PRDs & User Stories",
+        "Build a Portfolio of Product Teardowns",
+        "Prepare for PM Case Interviews & Apply"
+      ]
+    },
+    {
+      "id": "scrum-master",
+      "title": "Scrum Master",
+      "category": "Management",
+      "skills": [
+        "Agile Frameworks",
+        "Facilitation",
+        "Conflict Resolution",
+        "Jira/Confluence",
+        "Coaching",
+        "Metrics (Velocity, Burndown)"
+      ],
+      "courses": [
+        {
+          "name": "Scrum.org Open Assessments",
+          "url": "https://www.scrum.org/open-assessments"
+        },
+        {
+          "name": "Atlassian Agile Coach",
+          "url": "https://www.atlassian.com/agile"
+        }
+      ],
+      "books": [
+        {
+          "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
+          "author": "Jeff Sutherland"
+        },
+        {
+          "title": "Coaching Agile Teams",
+          "author": "Lyssa Adkins"
+        }
+      ],
+      "projects": [
+        "Simulate a Sprint Planning & Retrospective",
+        "Create a Jira Workflow & Dashboard for a Dev Team",
+        "Write a Guide on Removing Common Agile Impediments"
+      ],
+      "roadmap": [
+        "Understand Agile Manifesto & Scrum Guide",
+        "Learn Facilitation & Coaching Techniques",
+        "Master Jira & Agile Metrics",
+        "Get Certified (PSM I or CSM)",
+        "Volunteer as Scrum Master for Open Source/Projects"
+      ]
+    },
+    {
+      "id": "seo-specialist",
+      "title": "SEO Specialist",
+      "category": "Marketing",
+      "skills": [
+        "Keyword Research",
+        "Technical SEO",
+        "Link Building",
+        "Google Analytics/Search Console",
+        "Content Strategy",
+        "HTML Basics"
+      ],
+      "courses": [
+        {
+          "name": "Moz Beginner's Guide to SEO",
+          "url": "https://moz.com/beginners-guide-to-seo"
+        },
+        {
+          "name": "Semrush Academy",
+          "url": "https://www.semrush.com/academy/"
+        }
+      ],
+      "books": [
+        {
+          "title": "The Art of SEO",
+          "author": "Eric Enge"
+        },
+        {
+          "title": "Product-Led SEO",
+          "author": "Eli Schwartz"
+        }
+      ],
+      "projects": [
+        "Perform a Full Technical SEO Audit on a Live Site",
+        "Develop a 6-Month Content & Keyword Strategy",
+        "Execute a Link-Building Outreach Campaign"
+      ],
+      "roadmap": [
+        "Learn How Search Engines Work",
+        "Master Keyword Research & On-Page SEO",
+        "Study Technical SEO & Site Architecture",
+        "Learn Analytics & Off-Page Strategies",
+        "Audit Real Websites & Build Case Studies"
+      ]
+    },
+    {
+      "id": "digital-marketer",
+      "title": "Digital Marketer",
+      "category": "Marketing",
+      "skills": [
+        "PPC Advertising",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Copywriting",
+        "A/B Testing",
+        "Marketing Analytics"
+      ],
+      "courses": [
+        {
+          "name": "Google Digital Garage",
+          "url": "https://learndigital.withgoogle.com/digitalgarage"
+        },
+        {
+          "name": "HubSpot Academy",
+          "url": "https://academy.hubspot.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "This Is Marketing",
+          "author": "Seth Godin"
+        },
+        {
+          "title": "Contagious: Why Things Catch On",
+          "author": "Jonah Berger"
+        }
+      ],
+      "projects": [
+        "Run a $50 Facebook/Instagram Ad Campaign",
+        "Design an Automated Email Drip Campaign",
+        "Create a Comprehensive Social Media Strategy"
+      ],
+      "roadmap": [
+        "Learn Marketing Fundamentals & Funnels",
+        "Master SEO, SEM, & Social Media Ads",
+        "Study Copywriting & Email Automation",
+        "Analyze Data & Optimize Campaigns",
+        "Build a Portfolio of Mock/Real Campaigns"
+      ]
+    },
+    {
+      "id": "content-writer",
+      "title": "Content Writer",
+      "category": "Content",
+      "skills": [
+        "SEO Writing",
+        "Copywriting",
+        "Research",
+        "Editing & Proofreading",
+        "CMS (WordPress)",
+        "Storytelling"
+      ],
+      "courses": [
+        {
+          "name": "HubSpot Content Marketing",
+          "url": "https://academy.hubspot.com/courses/content-marketing"
+        },
+        {
+          "name": "Copyblogger",
+          "url": "https://copyblogger.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Everybody Writes",
+          "author": "Ann Handley"
+        },
+        {
+          "title": "The Elements of Style",
+          "author": "Strunk & White"
+        }
+      ],
+      "projects": [
+        "Write a 2000-word SEO-Optimized Pillar Blog Post",
+        "Create a 5-Email Welcome Sequence for a SaaS",
+        "Ghostwrite 3 LinkedIn Thought-Leadership Posts"
+      ],
+      "roadmap": [
+        "Master Grammar, Tone, & Storytelling",
+        "Learn SEO Basics & Keyword Integration",
+        "Study Copywriting Frameworks (AIDA, PAS)",
+        "Build a Diverse Writing Portfolio",
+        "Pitch to Publications & Apply for Roles"
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "title": "Business Analyst",
+      "category": "Business",
+      "skills": [
+        "Requirements Elicitation",
+        "SQL",
+        "Data Visualization",
+        "Process Modeling (BPMN)",
+        "Stakeholder Management",
+        "Excel"
+      ],
+      "courses": [
+        {
+          "name": "IIBA Business Analysis",
+          "url": "https://www.iiba.org/"
+        },
+        {
+          "name": "Coursera: Business Analytics",
+          "url": "https://www.coursera.org/specializations/business-analytics"
+        }
+      ],
+      "books": [
+        {
+          "title": "Business Analysis Body of Knowledge (BABOK)",
+          "author": "IIBA"
+        },
+        {
+          "title": "User Stories Applied",
+          "author": "Mike Cohn"
+        }
+      ],
+      "projects": [
+        "Map Current vs. Future State Processes using BPMN",
+        "Write a BRD (Business Requirements Document)",
+        "Create a Tableau Dashboard for Sales Data"
+      ],
+      "roadmap": [
+        "Learn Business Analysis Fundamentals",
+        "Master SQL & Excel for Data Analysis",
+        "Study Requirements Gathering & Documentation",
+        "Learn Process Mapping & Data Viz Tools",
+        "Build a Case Study Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "computer-vision-engineer",
+      "title": "Computer Vision Engineer",
+      "category": "AI",
+      "skills": [
+        "Python",
+        "OpenCV",
+        "PyTorch/TensorFlow",
+        "CNNs",
+        "Image Processing",
+        "YOLO/Object Detection"
+      ],
+      "courses": [
+        {
+          "name": "Stanford CS231n",
+          "url": "http://cs231n.stanford.edu/"
+        },
+        {
+          "name": "DeepLearning.AI Computer Vision",
+          "url": "https://www.coursera.org/specializations/computer-vision"
+        }
+      ],
+      "books": [
+        {
+          "title": "Programming Computer Vision with Python",
+          "author": "Jan Erik Solem"
+        },
+        {
+          "title": "Deep Learning for Vision Systems",
+          "author": "Mohamed Elgendy"
+        }
+      ],
+      "projects": [
+        "Build a Real-Time Face Mask Detection System",
+        "Create an OCR Pipeline for Receipt Scanning",
+        "Train a Custom YOLO Model for Defect Detection"
+      ],
+      "roadmap": [
+        "Master Python, NumPy, & Linear Algebra",
+        "Learn Image Processing with OpenCV",
+        "Study Deep Learning & CNN Architectures",
+        "Implement Object Detection & Segmentation",
+        "Deploy CV Models via APIs & Build Portfolio"
+      ]
+    },
+    {
+      "id": "nlp-engineer",
+      "title": "NLP Engineer",
+      "category": "AI",
+      "skills": [
+        "Python",
+        "Transformers",
+        "Hugging Face",
+        "spaCy",
+        "LLMs",
+        "Text Preprocessing"
+      ],
+      "courses": [
+        {
+          "name": "Hugging Face NLP Course",
+          "url": "https://huggingface.co/learn/nlp-course"
+        },
+        {
+          "name": "Stanford CS224N",
+          "url": "http://web.stanford.edu/class/cs224n/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Speech and Language Processing",
+          "author": "Jurafsky & Martin"
+        },
+        {
+          "title": "Natural Language Processing with Transformers",
+          "author": "Lewis Tunstall"
+        }
+      ],
+      "projects": [
+        "Build a Sentiment Analysis API using BERT",
+        "Fine-Tune an LLM for Domain-Specific Q&A",
+        "Create a Document Summarization Pipeline"
+      ],
+      "roadmap": [
+        "Learn Text Preprocessing & Embeddings",
+        "Master RNNs, LSTMs, & Attention Mechanisms",
+        "Study Transformers & Hugging Face Ecosystem",
+        "Fine-Tune LLMs & Implement RAG",
+        "Deploy NLP Models & Build Portfolio"
+      ]
+    },
+    {
+      "id": "site-reliability-engineer",
+      "title": "Site Reliability Engineer",
+      "category": "Cloud & DevOps",
+      "skills": [
+        "Linux",
+        "Python/Go",
+        "Kubernetes",
+        "Prometheus/Grafana",
+        "CI/CD",
+        "Incident Management"
+      ],
+      "courses": [
+        {
+          "name": "Google SRE Resources",
+          "url": "https://sre.google/"
+        },
+        {
+          "name": "Linux Foundation SRE",
+          "url": "https://training.linuxfoundation.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Site Reliability Engineering",
+          "author": "Betsy Beyer et al."
+        },
+        {
+          "title": "The Site Reliability Workbook",
+          "author": "Betsy Beyer et al."
+        }
+      ],
+      "projects": [
+        "Set Up Prometheus & Grafana Monitoring Stack",
+        "Automate Infrastructure Scaling with Kubernetes HPA",
+        "Write a Chaos Engineering Script to Test Resilience"
+      ],
+      "roadmap": [
+        "Master Linux & Networking Fundamentals",
+        "Learn Coding (Python/Go) & Automation",
+        "Study Containers & Orchestration (K8s)",
+        "Implement Observability & SLOs",
+        "Practice Incident Response & Apply"
+      ]
+    },
+    {
+      "id": "penetration-tester",
+      "title": "Penetration Tester",
+      "category": "Cybersecurity",
+      "skills": [
+        "Network Security",
+        "Web App Exploitation",
+        "Kali Linux",
+        "Metasploit",
+        "Burp Suite",
+        "Scripting (Python/Bash)"
+      ],
+      "courses": [
+        {
+          "name": "TryHackMe",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "name": "Hack The Box",
+          "url": "https://www.hackthebox.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "The Web Application Hacker's Handbook",
+          "author": "Dafydd Stuttard"
+        },
+        {
+          "title": "Penetration Testing",
+          "author": "Georgia Weidman"
+        }
+      ],
+      "projects": [
+        "Complete 20 HTB Machines & Write Walkthroughs",
+        "Perform a Mock Web App Pentest & Write a Report",
+        "Develop a Custom Python Port Scanner"
+      ],
+      "roadmap": [
+        "Learn Networking & OS Fundamentals",
+        "Master Web & Network Exploitation",
+        "Practice on CTF Platforms (HTB/THM)",
+        "Learn Reporting & Compliance",
+        "Get Certified (eJPT/OSCP) & Apply"
+      ]
+    },
+    {
+      "id": "cloud-security-engineer",
+      "title": "Cloud Security Engineer",
+      "category": "Cybersecurity",
+      "skills": [
+        "AWS/Azure Security",
+        "IAM",
+        "CloudTrail/GuardDuty",
+        "Terraform",
+        "Compliance (CIS)",
+        "Python"
+      ],
+      "courses": [
+        {
+          "name": "AWS Security Training",
+          "url": "https://aws.amazon.com/training/"
+        },
+        {
+          "name": "A Cloud Guru",
+          "url": "https://acloudguru.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Practical Cloud Security",
+          "author": "Chris Dotson"
+        },
+        {
+          "title": "AWS Security",
+          "author": "Dylan Shields"
+        }
+      ],
+      "projects": [
+        "Automate Cloud Security Audits using Prowler",
+        "Design a Secure Multi-Tier AWS Architecture",
+        "Implement Automated Remediation for S3 Bucket Leaks"
+      ],
+      "roadmap": [
+        "Learn Cloud Fundamentals (AWS/Azure)",
+        "Master IAM, Networking, & Encryption",
+        "Study Cloud Compliance & Frameworks",
+        "Automate Security with IaC & Lambda",
+        "Get Certified (AWS Security Specialty) & Apply"
+      ]
+    },
+    {
+      "id": "database-developer",
+      "title": "Database Developer",
+      "category": "Database",
+      "skills": [
+        "Advanced SQL",
+        "Stored Procedures",
+        "ETL Pipelines",
+        "Database Design",
+        "Python",
+        "Data Warehousing"
+      ],
+      "courses": [
+        {
+          "name": "SQLBolt",
+          "url": "https://sqlbolt.com/"
+        },
+        {
+          "name": "Data Engineering Zoomcamp",
+          "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+        }
+      ],
+      "books": [
+        {
+          "title": "SQL Antipatterns",
+          "author": "Bill Karwin"
+        },
+        {
+          "title": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann"
+        }
+      ],
+      "projects": [
+        "Build an ETL Pipeline from API to Data Warehouse",
+        "Optimize Slow Queries using Execution Plans",
+        "Design a Star Schema for Retail Analytics"
+      ],
+      "roadmap": [
+        "Master Advanced SQL & Window Functions",
+        "Learn Relational & NoSQL Modeling",
+        "Study ETL Tools & Data Pipelines",
+        "Understand Data Warehousing Concepts",
+        "Build Data Projects & Apply"
+      ]
+    },
+    {
+      "id": "frontend-developer",
+      "title": "Frontend Developer",
+      "category": "Web Development",
+      "skills": [
+        "HTML/CSS",
+        "JavaScript",
+        "React/Vue",
+        "TypeScript",
+        "Tailwind CSS",
+        "State Management"
+      ],
+      "courses": [
+        {
+          "name": "Frontend Masters",
+          "url": "https://frontendmasters.com/"
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Eloquent JavaScript",
+          "author": "Marijn Haverbeke"
+        },
+        {
+          "title": "You Don't Know JS Yet",
+          "author": "Kyle Simpson"
+        }
+      ],
+      "projects": [
+        "Build a Responsive Dashboard with Charts",
+        "Create an E-commerce Cart with State Management",
+        "Develop a Real-Time Chat App using WebSockets"
+      ],
+      "roadmap": [
+        "Master HTML, CSS, & Vanilla JS",
+        "Learn a Modern Framework (React/Vue)",
+        "Study State Management & API Integration",
+        "Optimize Performance & Accessibility",
+        "Build Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "backend-developer",
+      "title": "Backend Developer",
+      "category": "Web Development",
+      "skills": [
+        "Node.js/Python/Java",
+        "REST/GraphQL",
+        "SQL/NoSQL",
+        "Authentication",
+        "Docker",
+        "Caching (Redis)"
+      ],
+      "courses": [
+        {
+          "name": "Full Stack Open (Backend)",
+          "url": "https://fullstackopen.com/en/"
+        },
+        {
+          "name": "Roadmap.sh Backend",
+          "url": "https://roadmap.sh/backend"
+        }
+      ],
+      "books": [
+        {
+          "title": "Designing Data-Intensive Applications",
+          "author": "Martin Kleppmann"
+        },
+        {
+          "title": "Clean Architecture",
+          "author": "Robert C. Martin"
+        }
+      ],
+      "projects": [
+        "Build a RESTful API with JWT Auth & Role Management",
+        "Create a Rate-Limited URL Shortener",
+        "Develop a Microservices-based E-commerce Backend"
+      ],
+      "roadmap": [
+        "Learn Server-Side Language & Framework",
+        "Master Databases & ORMs",
+        "Implement Auth, Security, & Caching",
+        "Learn Docker & CI/CD Basics",
+        "Build Scalable APIs & Apply"
+      ]
+    },
+    {
+      "id": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "category": "Web Development",
+      "skills": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "TypeScript",
+        "Next.js",
+        "AWS/Vercel"
+      ],
+      "courses": [
+        {
+          "name": "Full Stack Open",
+          "url": "https://fullstackopen.com/en/"
+        },
+        {
+          "name": "The Odin Project",
+          "url": "https://www.theodinproject.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "The Pragmatic Programmer",
+          "author": "Andrew Hunt"
+        },
+        {
+          "title": "Fullstack React",
+          "author": "Anthony Accomazzo"
+        }
+      ],
+      "projects": [
+        "Build a SaaS App with Stripe Integration",
+        "Create a Full-Stack Social Media Clone",
+        "Develop a Project Management Tool with Real-Time Updates"
+      ],
+      "roadmap": [
+        "Master Frontend & Backend Fundamentals",
+        "Learn Database Design & API Architecture",
+        "Integrate Auth, Payments, & 3rd Party APIs",
+        "Deploy Full-Stack Apps to Cloud",
+        "Build End-to-End Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "android-developer",
+      "title": "Android Developer",
+      "category": "Mobile Development",
+      "skills": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Coroutines",
+        "Room Database",
+        "Retrofit",
+        "MVVM"
+      ],
+      "courses": [
+        {
+          "name": "Android Developers Training",
+          "url": "https://developer.android.com/courses"
+        },
+        {
+          "name": "Udacity Android",
+          "url": "https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803"
+        }
+      ],
+      "books": [
+        {
+          "title": "Kotlin in Action",
+          "author": "Dmitry Jemerov"
+        },
+        {
+          "title": "Android Programming: The Big Nerd Ranch Guide",
+          "author": "Bill Phillips"
+        }
+      ],
+      "projects": [
+        "Build a Weather App using Retrofit & MVVM",
+        "Create a Local Note-Taking App with Room DB",
+        "Develop a Media Player with Background Services"
+      ],
+      "roadmap": [
+        "Learn Kotlin & OOP Principles",
+        "Master Jetpack Compose & UI Design",
+        "Study Architecture (MVVM) & Coroutines",
+        "Integrate APIs & Local Storage",
+        "Publish to Play Store & Apply"
+      ]
+    },
+    {
+      "id": "ios-developer",
+      "title": "iOS Developer",
+      "category": "Mobile Development",
+      "skills": [
+        "Swift",
+        "SwiftUI",
+        "Core Data",
+        "Combine/Async-Await",
+        "UIKit",
+        "CocoaPods/SPM"
+      ],
+      "courses": [
+        {
+          "name": "Stanford CS193p",
+          "url": "https://cs193p.sites.stanford.edu/"
+        },
+        {
+          "name": "Hacking with Swift",
+          "url": "https://www.hackingwithswift.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Swift Programming: The Big Nerd Ranch Guide",
+          "author": "Mikey Ward"
+        },
+        {
+          "title": "iOS Programming with Swift",
+          "author": "Christian Keur"
+        }
+      ],
+      "projects": [
+        "Build a Recipe App with Core Data & Search",
+        "Create a Fitness Tracker using HealthKit",
+        "Develop a Chat App with Firebase & Push Notifications"
+      ],
+      "roadmap": [
+        "Learn Swift & Programming Basics",
+        "Master SwiftUI & UIKit",
+        "Study Data Persistence & Networking",
+        "Learn Concurrency & App Architecture",
+        "Build Portfolio & Publish to App Store"
+      ]
+    },
+    {
+      "id": "mobile-app-developer",
+      "title": "Mobile App Developer",
+      "category": "Mobile Development",
+      "skills": [
+        "Flutter/Dart or React Native",
+        "State Management",
+        "Firebase",
+        "REST APIs",
+        "App Store Deployment"
+      ],
+      "courses": [
+        {
+          "name": "Flutter Official Docs",
+          "url": "https://docs.flutter.dev/"
+        },
+        {
+          "name": "React Native Docs",
+          "url": "https://reactnative.dev/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Flutter in Action",
+          "author": "Eric Windmill"
+        },
+        {
+          "title": "Learning React Native",
+          "author": "Bonnie Eisenman"
+        }
+      ],
+      "projects": [
+        "Build a Cross-Platform Expense Tracker",
+        "Create an Uber-Clone UI with Maps Integration",
+        "Develop a Real-Time Polling App"
+      ],
+      "roadmap": [
+        "Choose Flutter or React Native",
+        "Master UI Components & Navigation",
+        "Learn State Management & API Calls",
+        "Integrate Native Features (Camera, GPS)",
+        "Deploy to Both Stores & Apply"
+      ]
+    },
+    {
+      "id": "game-developer",
+      "title": "Game Developer",
+      "category": "Game Development",
+      "skills": [
+        "C++/C#",
+        "Game Engines",
+        "Linear Algebra",
+        "Physics Simulation",
+        "Design Patterns",
+        "Optimization"
+      ],
+      "courses": [
+        {
+          "name": "CS50's Introduction to Game Development",
+          "url": "https://cs50.harvard.edu/games/"
+        },
+        {
+          "name": "Brackeys (YouTube)",
+          "url": "https://www.youtube.com/user/Brackeys"
+        }
+      ],
+      "books": [
+        {
+          "title": "Game Programming Patterns",
+          "author": "Robert Nystrom"
+        },
+        {
+          "title": "The Art of Game Design",
+          "author": "Jesse Schell"
+        }
+      ],
+      "projects": [
+        "Recreate Classic Pong with Custom Physics",
+        "Build a 2D Platformer with Enemy AI",
+        "Develop a Multiplayer Arena Prototype"
+      ],
+      "roadmap": [
+        "Learn C++/C# & Math for Games",
+        "Master a Game Engine (Unity/Unreal)",
+        "Study Game Loop, Physics, & AI",
+        "Participate in Game Jams",
+        "Build a Playable Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "unity-developer",
+      "title": "Unity Developer",
+      "category": "Game Development",
+      "skills": [
+        "C#",
+        "Unity Engine",
+        "MonoBehaviour",
+        "Unity UI",
+        "Cinemachine",
+        "Addressables"
+      ],
+      "courses": [
+        {
+          "name": "Unity Learn",
+          "url": "https://learn.unity.com/"
+        },
+        {
+          "name": "Code Monkey (YouTube)",
+          "url": "https://www.youtube.com/c/CodeMonkeyUnity"
+        }
+      ],
+      "books": [
+        {
+          "title": "Unity in Action",
+          "author": "Joseph Hocking"
+        },
+        {
+          "title": "Game Programming Patterns",
+          "author": "Robert Nystrom"
+        }
+      ],
+      "projects": [
+        "Create an Endless Runner with Object Pooling",
+        "Build an Inventory System using Scriptable Objects",
+        "Develop a VR Interaction Prototype"
+      ],
+      "roadmap": [
+        "Master C# & Unity Interface",
+        "Learn 2D/3D Physics & Collisions",
+        "Study UI, Animation, & Audio",
+        "Optimize Performance & Memory",
+        "Publish Games & Build Portfolio"
+      ]
+    },
+    {
+      "id": "unreal-engine-developer",
+      "title": "Unreal Engine Developer",
+      "category": "Game Development",
+      "skills": [
+        "C++",
+        "Blueprints",
+        "Unreal Engine 5",
+        "Nanite/Lumen",
+        "Animation Blueprints",
+        "Multiplayer Networking"
+      ],
+      "courses": [
+        {
+          "name": "Unreal Engine Learning",
+          "url": "https://dev.epicgames.com/community/unreal-engine/learning"
+        },
+        {
+          "name": "Stephen Ulibarri (Udemy)",
+          "url": "https://www.udemy.com/user/stephen-ulibarri/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Unreal Engine C++ The Ultimate Developer's Handbook",
+          "author": "Stephen Ulibarri"
+        },
+        {
+          "title": "Game Development Patterns with Unreal Engine 5",
+          "author": "Marco Secchi"
+        }
+      ],
+      "projects": [
+        "Create a Third-Person Shooter Template",
+        "Build a Procedural Dungeon Generator",
+        "Develop a Multiplayer Lobby System"
+      ],
+      "roadmap": [
+        "Learn C++ & Blueprint Visual Scripting",
+        "Master UE5 Core Systems (GAS, AI)",
+        "Study Lighting, Materials, & Shaders",
+        "Implement Multiplayer Replication",
+        "Build a High-Fidelity Demo & Apply"
+      ]
+    },
+    {
+      "id": "software-tester",
+      "title": "Software Tester",
+      "category": "Testing",
+      "skills": [
+        "Test Case Design",
+        "Bug Tracking (Jira)",
+        "API Testing (Postman)",
+        "Agile Testing",
+        "SQL Basics",
+        "Cross-Browser Testing"
+      ],
+      "courses": [
+        {
+          "name": "Test Automation University",
+          "url": "https://testautomationu.applitools.com/"
+        },
+        {
+          "name": "Ministry of Testing",
+          "url": "https://www.ministryoftesting.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Lessons Learned in Software Testing",
+          "author": "Cem Kaner"
+        },
+        {
+          "title": "Agile Testing",
+          "author": "Lisa Crispin"
+        }
+      ],
+      "projects": [
+        "Write a Comprehensive Test Plan for an E-commerce Site",
+        "Execute API Tests using Postman Collections",
+        "Log & Track 20 Mock Bugs in Jira"
+      ],
+      "roadmap": [
+        "Learn SDLC & Testing Fundamentals",
+        "Master Test Case Design Techniques",
+        "Practice API & Database Testing",
+        "Learn Bug Reporting & Jira",
+        "Build a Testing Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "qa-engineer",
+      "title": "QA Engineer",
+      "category": "Testing",
+      "skills": [
+        "Selenium/Playwright",
+        "Python/Java",
+        "CI/CD Integration",
+        "API Automation",
+        "Performance Testing",
+        "Cypress"
+      ],
+      "courses": [
+        {
+          "name": "Test Automation University",
+          "url": "https://testautomationu.applitools.com/"
+        },
+        {
+          "name": "Playwright Docs",
+          "url": "https://playwright.dev/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Selenium Testing Tools Cookbook",
+          "author": "Gundappa Viswanath"
+        },
+        {
+          "title": "Continuous Delivery",
+          "author": "Jez Humble"
+        }
+      ],
+      "projects": [
+        "Build a UI Automation Framework using Playwright",
+        "Automate REST API Testing with RestAssured/PyTest",
+        "Integrate Tests into a GitHub Actions CI Pipeline"
+      ],
+      "roadmap": [
+        "Master a Programming Language (Python/Java)",
+        "Learn UI Automation (Selenium/Playwright)",
+        "Study API Automation & Mocking",
+        "Integrate Tests with CI/CD Tools",
+        "Build an Automation Framework Portfolio"
+      ]
+    },
+    {
+      "id": "devops-engineer",
+      "title": "DevOps Engineer",
+      "category": "Cloud & DevOps",
+      "skills": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD (Jenkins/GitHub Actions)",
+        "AWS/Azure"
+      ],
+      "courses": [
+        {
+          "name": "KodeKloud",
+          "url": "https://kodekloud.com/"
+        },
+        {
+          "name": "TechWorld with Nana",
+          "url": "https://www.youtube.com/c/TechWorldwithNana"
+        }
+      ],
+      "books": [
+        {
+          "title": "The DevOps Handbook",
+          "author": "Gene Kim"
+        },
+        {
+          "title": "Kubernetes Up and Running",
+          "author": "Kelsey Hightower"
+        }
+      ],
+      "projects": [
+        "Containerize a Web App & Deploy to K8s",
+        "Automate Infrastructure Provisioning with Terraform",
+        "Build a Complete CI/CD Pipeline with ArgoCD"
+      ],
+      "roadmap": [
+        "Master Linux, Networking, & Scripting",
+        "Learn Containers & Orchestration",
+        "Study IaC (Terraform) & Cloud Providers",
+        "Implement CI/CD & GitOps",
+        "Build Cloud Projects & Get Certified"
+      ]
+    },
+    {
+      "id": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "category": "Cloud & DevOps",
+      "skills": [
+        "AWS/Azure/GCP",
+        "Networking",
+        "IAM",
+        "Serverless",
+        "Terraform",
+        "Linux"
+      ],
+      "courses": [
+        {
+          "name": "AWS Skill Builder",
+          "url": "https://explore.skillbuilder.aws/"
+        },
+        {
+          "name": "A Cloud Guru",
+          "url": "https://acloudguru.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "AWS Certified Solutions Architect Official Study Guide",
+          "author": "Ben Piper"
+        },
+        {
+          "title": "Cloud Native Infrastructure",
+          "author": "Justin Garrison"
+        }
+      ],
+      "projects": [
+        "Deploy a Highly Available Web Architecture on AWS",
+        "Migrate a Local Database to Cloud Managed Services",
+        "Automate Cloud Deployments using Terraform"
+      ],
+      "roadmap": [
+        "Learn Cloud Computing Fundamentals",
+        "Master Core Services (Compute, Storage, Network)",
+        "Study Security, IAM, & Serverless",
+        "Learn Infrastructure as Code",
+        "Get Certified (Solutions Architect) & Apply"
+      ]
+    },
+    {
+      "id": "cybersecurity-analyst",
+      "title": "Cybersecurity Analyst",
+      "category": "Cybersecurity",
+      "skills": [
+        "SIEM (Splunk)",
+        "Network Analysis",
+        "Incident Response",
+        "Threat Intelligence",
+        "Wireshark",
+        "Linux"
+      ],
+      "courses": [
+        {
+          "name": "TryHackMe SOC Level 1",
+          "url": "https://tryhackme.com/"
+        },
+        {
+          "name": "LetsDefend",
+          "url": "https://letsdefend.io/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Blue Team Field Manual",
+          "author": "Alan J White"
+        },
+        {
+          "title": "Practical Malware Analysis",
+          "author": "Michael Sikorski"
+        }
+      ],
+      "projects": [
+        "Set Up a Home SIEM & Ingest Logs",
+        "Analyze a PCAP File for Malicious Traffic",
+        "Write an Incident Response Playbook for Ransomware"
+      ],
+      "roadmap": [
+        "Learn Networking & OS Security",
+        "Master Log Analysis & SIEM Tools",
+        "Study Threat Hunting & Incident Response",
+        "Practice in SOC Simulators",
+        "Get Certified (CompTIA CySA+) & Apply"
+      ]
+    },
+    {
+      "id": "ethical-hacker",
+      "title": "Ethical Hacker",
+      "category": "Cybersecurity",
+      "skills": [
+        "Penetration Testing",
+        "Kali Linux",
+        "Burp Suite",
+        "Metasploit",
+        "Scripting",
+        "Cryptography"
+      ],
+      "courses": [
+        {
+          "name": "Hack The Box Academy",
+          "url": "https://academy.hackthebox.com/"
+        },
+        {
+          "name": "TCM Security",
+          "url": "https://academy.tcm-sec.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "The Hacker Playbook 3",
+          "author": "Peter Kim"
+        },
+        {
+          "title": "Black Hat Python",
+          "author": "Justin Seitz"
+        }
+      ],
+      "projects": [
+        "Hack 10 Active Directory Labs",
+        "Write a Custom Python Keylogger",
+        "Perform a Full Network Pentest & Write Report"
+      ],
+      "roadmap": [
+        "Master Networking & Linux Command Line",
+        "Learn Web & Network Exploitation",
+        "Study Active Directory Attacks",
+        "Practice CTFs & Writeups",
+        "Get Certified (OSCP/PNPT) & Apply"
+      ]
+    },
+    {
+      "id": "data-scientist",
+      "title": "Data Scientist",
+      "category": "Data Science",
+      "skills": [
+        "Python",
+        "Pandas/NumPy",
+        "Scikit-Learn",
+        "SQL",
+        "Statistics",
+        "Data Visualization"
+      ],
+      "courses": [
+        {
+          "name": "Kaggle Learn",
+          "url": "https://www.kaggle.com/learn"
+        },
+        {
+          "name": "Coursera: Data Science",
+          "url": "https://www.coursera.org/specializations/jhu-data-science"
+        }
+      ],
+      "books": [
+        {
+          "title": "Python for Data Analysis",
+          "author": "Wes McKinney"
+        },
+        {
+          "title": "An Introduction to Statistical Learning",
+          "author": "Gareth James"
+        }
+      ],
+      "projects": [
+        "Predict Customer Churn using Machine Learning",
+        "Analyze & Visualize Global Climate Data",
+        "Build a Recommendation System for Movies"
+      ],
+      "roadmap": [
+        "Master Python, SQL, & Statistics",
+        "Learn Data Wrangling & EDA",
+        "Study Machine Learning Algorithms",
+        "Participate in Kaggle Competitions",
+        "Build an End-to-End DS Portfolio"
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "category": "Data Science",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Tableau/PowerBI",
+        "Python/R",
+        "Data Cleaning",
+        "Business Acumen"
+      ],
+      "courses": [
+        {
+          "name": "Google Data Analytics Certificate",
+          "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+        },
+        {
+          "name": "Maven Analytics",
+          "url": "https://www.mavenanalytics.io/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Storytelling with Data",
+          "author": "Cole Nussbaumer Knaflic"
+        },
+        {
+          "title": "Naked Statistics",
+          "author": "Charles Wheelan"
+        }
+      ],
+      "projects": [
+        "Clean & Analyze a Messy Sales Dataset",
+        "Build an Interactive Power BI Dashboard",
+        "Present Business Insights from Web Scraped Data"
+      ],
+      "roadmap": [
+        "Master Advanced Excel & SQL",
+        "Learn a BI Tool (Tableau/Power BI)",
+        "Study Basic Python for Data Cleaning",
+        "Focus on Business Metrics & Storytelling",
+        "Build a Dashboard Portfolio & Apply"
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "title": "Machine Learning Engineer",
+      "category": "AI",
+      "skills": [
+        "Python",
+        "PyTorch/TensorFlow",
+        "MLOps",
+        "Model Deployment",
+        "Data Pipelines",
+        "Cloud ML"
+      ],
+      "courses": [
+        {
+          "name": "DeepLearning.AI",
+          "url": "https://www.deeplearning.ai/"
+        },
+        {
+          "name": "Full Stack Deep Learning",
+          "url": "https://fullstackdeeplearning.com/"
+        }
+      ],
+      "books": [
+        {
+          "title": "Hands-On Machine Learning",
+          "author": "Aurélien Géron"
+        },
+        {
+          "title": "Designing Machine Learning Systems",
+          "author": "Chip Huyen"
+        }
+      ],
+      "projects": [
+        "Deploy a Model via FastAPI & Docker",
+        "Build an Automated ML Training Pipeline",
+        "Create a Real-Time Fraud Detection System"
+      ],
+      "roadmap": [
+        "Master ML Algorithms & Math",
+        "Learn Deep Learning Frameworks",
+        "Study MLOps & Model Serving",
+        "Implement CI/CD for ML Models",
+        "Build Scalable ML Projects & Apply"
+      ]
+    },
+    {
+      "id": "ai-engineer",
+      "title": "AI Engineer",
+      "category": "AI",
+      "skills": [
+        "Python",
+        "LLMs",
+        "LangChain",
+        "Vector Databases",
+        "Prompt Engineering",
+        "RAG"
+      ],
+      "courses": [
+        {
+          "name": "DeepLearning.AI Generative AI",
+          "url": "https://www.deeplearning.ai/short-courses/"
+        },
+        {
+          "name": "LangChain Docs",
+          "url": "https://python.langchain.com/docs/get_started/introduction"
+        }
+      ],
+      "books": [
+        {
+          "title": "Generative Deep Learning",
+          "author": "David Foster"
+        },
+        {
+          "title": "Natural Language Processing with Transformers",
+          "author": "Lewis Tunstall"
+        }
+      ],
+      "projects": [
+        "Build a Custom Chatbot using RAG & Pinecone",
+        "Create an AI Agent for Web Scraping & Summarization",
+        "Fine-Tune an Open Source LLM on Custom Data"
+      ],
+      "roadmap": [
+        "Master Python & NLP Fundamentals",
+        "Learn Transformer Architecture",
+        "Study Prompt Engineering & LangChain",
+        "Implement RAG & Vector DBs",
+        "Build Generative AI Apps & Apply"
+      ]
+    }
+  ]
+}
